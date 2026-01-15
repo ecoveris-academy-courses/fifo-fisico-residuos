@@ -87,7 +87,7 @@ Este proyecto proporciona una **solución paso a paso** basada en el **método F
 ## 🎮 **¿Cómo Empezar?**
 
 ### **Opción 1: ⚡ Ejecución Rápida (Recomendado)**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu-usuario/fifo-fisico-residuos/blob/main/notebooks/1_generacion_datos.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ecoveris-academy-courses/fifo-fisico-residuos/blob/main/notebooks/1_generacion_datos.ipynb)
 
 ### **Opción 2: 🖥️ Ejecución Local**
 ```bash
