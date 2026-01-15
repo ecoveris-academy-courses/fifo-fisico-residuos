@@ -99,3 +99,50 @@ pip install -r requirements.txt
 
 # 3. Ejecuta en orden los 5 notebooks
 jupyter notebook notebooks/1_generacion_datos.ipynb
+```
+## 📚 **Contenido Educativo:**
+# **Nivel 1: Fundamentos (Horas 1-2)**
+- Conceptos básicos de FIFO vs FIFO Físico
+
+- Identificación de tipos de errores comunes
+
+- Análisis de balances negativos
+
+# **Nivel 2: Aplicación (Horas 3-4)**
+- Metodología paso a paso de reconciliación
+
+- Técnicas de corrección sistemática
+
+- Validación de resultados
+
+# **Nivel 3: Profesional (Horas 5-6)**
+- Dashboard ejecutivo para toma de decisiones
+
+- ROI y justificación de inversiones
+
+- Plan de mejora continua
+
+## **🤝 Contribuye y Colabora:**
+¿Eres experto en gestión de residuos? ¿Tienes experiencia en análisis de datos? ¿Quieres traducir a otro idioma?
+
+¡Tu contribución es bienvenida! Puedes:
+
+- 🔧 Reportar issues - Problemas o mejoras
+
+- 💡 Sugerir features - Nuevas funcionalidades
+
+- 📖 Mejorar documentación - Claridad y ejemplos
+
+- 🌐 Traducir - Ayuda a llegar a más personas
+
+
+## **📞 Soporte y Comunidad:**
+
+- 🐛 Issues: Reportar problemas técnicos
+
+- 📧 Email: ecoveris.academy@gmail.com
+
+- 💼 LinkedIn: [Ecoveris Academy](https://www.linkedin.com/company/ecoveris-academy/)]
+
+- 📄 Licencia: Este proyecto está bajo la licencia MIT - ver el archivo LICENSE para más detalles.
+
