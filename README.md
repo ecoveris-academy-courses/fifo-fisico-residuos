@@ -3,6 +3,27 @@
 
 **Un microcurso práctico que enseña a aplicar el método FIFO Físico para resolver problemas reales en la gestión de inventarios de residuos industriales.**
 
+## 📊 Estadísticas del Proyecto
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/ecoveris-academy-courses/fifo-fisico-residuos?style=flat&labelColor=1a1a1a&color=gold)](https://github.com/ecoveris-academy-courses/fifo-fisico-residuos/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ecoveris-academy-courses/fifo-fisico-residuos?style=flat&labelColor=1a1a1a&color=teal)](https://github.com/ecoveris-academy-courses/fifo-fisico-residuos/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/ecoveris-academy-courses/fifo-fisico-residuos?style=flat&labelColor=1a1a1a&color=blue)](https://github.com/ecoveris-academy-courses/fifo-fisico-residuos/watchers)
+[![GitHub issues](https://img.shields.io/github/issues/ecoveris-academy-courses/fifo-fisico-residuos?style=flat&labelColor=1a1a1a&color=orange)](https://github.com/ecoveris-academy-courses/fifo-fisico-residuos/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/ecoveris-academy-courses/fifo-fisico-residuos?style=flat&labelColor=1a1a&color=green)](https://github.com/ecoveris-academy-courses/fifo-fisico-residuos/pulls)
+
+## 📖 Tabla de Contenidos
+
+- [¿Qué Problema Resuelve?](#-qué-problema-resuelve)
+- [¿Qué Contiene Este Repositorio?](#-qué-contiene-este-repositorio)
+- [¿Para Quién Es Este Proyecto?](#️-para-quién-es-este-proyecto)
+- [Resultados Alcanzables](#-resultados-alcanzables)
+- [Tecnologías Utilizadas](#️-tecnologías-utilizadas)
+- [Aplicaciones en el Mundo Real](#-aplicaciones-en-el-mundo-real)
+- [Contenido Educativo](#-contenido-educativo)
+- [¿Cómo Empezar?](#-cómo-empezar)
+- [Contribuye y Colabora](#-contribuye-y-colabora)
+- [Soporte y Comunidad](#-soporte-y-comunidad)
+
 ---
 
 ## 🎯 **¿Qué Problema Resuelve?**
@@ -22,6 +43,7 @@ Este proyecto proporciona una **solución paso a paso** basada en el **método F
 5. **🚀 Propuestas de Mejora** - Genera un plan de acción con ROI calculado
 
 ### 📁 **Datos y Resultados:**
+
 - **64 tipos de residuos** (peligrosos y no peligrosos)
 - **1,400+ eventos de ingreso** con errores realistas
 - **900+ eventos de salida** sin errores (datos "reales")
@@ -84,6 +106,23 @@ Este proyecto proporciona una **solución paso a paso** basada en el **método F
 - Aprende metodologías estándar del sector
 - Desarrolla portfolio con proyecto completo
 
+## 📚 **Contenido Educativo:**
+
+### **Nivel 1: Fundamentos (Horas 1-2)**
+- Conceptos básicos de FIFO vs FIFO Físico
+- Identificación de tipos de errores comunes
+- Análisis de balances negativos
+
+### **Nivel 2: Aplicación (Horas 3-4)**
+- Metodología paso a paso de reconciliación
+- Técnicas de corrección sistemática
+- Validación de resultados
+
+### **Nivel 3: Profesional (Horas 5-6)**
+- Dashboard ejecutivo para toma de decisiones
+- ROI y justificación de inversiones
+- Plan de mejora continua
+
 ## 🎮 **¿Cómo Empezar?**
 
 ### **Opción 1: ⚡ Ejecución Rápida (Recomendado)**
@@ -92,57 +131,37 @@ Este proyecto proporciona una **solución paso a paso** basada en el **método F
 ### **Opción 2: 🖥️ Ejecución Local**
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/tu-usuario/fifo-fisico-residuos.git
+git clone https://github.com/ecoveris-academy-courses/fifo-fisico-residuos.git
 
-# 2. Instala dependencias
+# 2. Navega al directorio del proyecto
+cd fifo-fisico-residuos
+
+# 3. Instala dependencias
 pip install -r requirements.txt
 
-# 3. Ejecuta en orden los 5 notebooks
-jupyter notebook notebooks/1_generacion_datos.ipynb
+# 4. Ejecuta en orden los 5 notebooks
+jupyter notebook notebooks/Gestión-residuos-FIFO.ipynb
 ```
-## 📚 **Contenido Educativo:**
-# **Nivel 1: Fundamentos (Horas 1-2)**
-- Conceptos básicos de FIFO vs FIFO Físico
+## 🤝 **Contribuye y Colabora**
 
-- Identificación de tipos de errores comunes
-
-- Análisis de balances negativos
-
-# **Nivel 2: Aplicación (Horas 3-4)**
-- Metodología paso a paso de reconciliación
-
-- Técnicas de corrección sistemática
-
-- Validación de resultados
-
-# **Nivel 3: Profesional (Horas 5-6)**
-- Dashboard ejecutivo para toma de decisiones
-
-- ROI y justificación de inversiones
-
-- Plan de mejora continua
-
-## **🤝 Contribuye y Colabora:**
 ¿Eres experto en gestión de residuos? ¿Tienes experiencia en análisis de datos? ¿Quieres traducir a otro idioma?
 
 ¡Tu contribución es bienvenida! Puedes:
 
-- 🔧 Reportar issues - Problemas o mejoras
+- 🔧 **Reportar issues** - Problemas o mejoras
+- 💡 **Sugerir features** - Nuevas funcionalidades  
+- 📖 **Mejorar documentación** - Claridad y ejemplos
+- 🌐 **Traducir** - Ayuda a llegar a más personas
 
-- 💡 Sugerir features - Nuevas funcionalidades
+## 📞 **Soporte y Comunidad**
 
-- 📖 Mejorar documentación - Claridad y ejemplos
+- 🐛 **Issues:** [Reportar problemas técnicos](https://github.com/ecoveris-academy-courses/fifo-fisico-residuos/issues)
+- 📧 **Email:** ecoveris.academy@gmail.com
+- 💼 **LinkedIn:** [Ecoveris Academy](https://www.linkedin.com/company/ecoveris-academy/)
+- 📄 **Licencia:** Este proyecto está bajo la licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
-- 🌐 Traducir - Ayuda a llegar a más personas
+---
 
+⭐ **Si este proyecto te resulta útil, por favor considera darle una estrella en GitHub para apoyar su desarrollo.**
 
-## **📞 Soporte y Comunidad:**
-
-- 🐛 Issues: Reportar problemas técnicos
-
-- 📧 Email: ecoveris.academy@gmail.com
-
-- 💼 LinkedIn: [Ecoveris Academy](https://www.linkedin.com/company/ecoveris-academy/)]
-
-- 📄 Licencia: Este proyecto está bajo la licencia MIT - ver el archivo LICENSE para más detalles.
 
