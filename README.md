@@ -125,23 +125,18 @@ Este proyecto proporciona una **solución paso a paso** basada en el **método F
 
 ## 🎮 **¿Cómo Empezar?**
 
-### **Opción 1: ⚡ Ejecución Rápida (Recomendado)**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ecoveris-academy-courses/fifo-fisico-residuos/blob/main/notebooks/1_generacion_datos.ipynb)
+###   1. Clona el repositorio
+      git clone https://github.com/ecoveris-academy-courses/fifo-fisico-residuos.git
 
-### **Opción 2: 🖥️ Ejecución Local**
-```bash
-# 1. Clona el repositorio
-git clone https://github.com/ecoveris-academy-courses/fifo-fisico-residuos.git
+###   2. Navega al directorio del proyecto
+      cd fifo-fisico-residuos
 
-# 2. Navega al directorio del proyecto
-cd fifo-fisico-residuos
+###   3. Instala dependencias
+      pip install -r requirements.txt
 
-# 3. Instala dependencias
-pip install -r requirements.txt
+###   4. Ejecuta en orden los 5 notebooks
+      jupyter notebook notebooks/Gestión-residuos-FIFO.ipynb
 
-# 4. Ejecuta en orden los 5 notebooks
-jupyter notebook notebooks/Gestión-residuos-FIFO.ipynb
-```
 ## 🤝 **Contribuye y Colabora**
 
 ¿Eres experto en gestión de residuos? ¿Tienes experiencia en análisis de datos? ¿Quieres traducir a otro idioma?
