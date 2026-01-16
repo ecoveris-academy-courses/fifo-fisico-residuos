@@ -135,7 +135,11 @@ Este proyecto proporciona una **solución paso a paso** basada en el **método F
       pip install -r requirements.txt
 
 ###   4. Ejecuta en orden los 5 notebooks
-      jupyter notebook notebooks/Gestión-residuos-FIFO.ipynb
+      jupyter notebook notebooks/1_generacion_datos.ipynb
+      jupyter notebook notebooks/2_analisis_datos.ipynb
+      jupyter notebook notebooks/3_aplicacion_fifo.ipynb
+      jupyter notebook notebooks/4_dashboard.ipynb
+      jupyter notebook notebooks/5_propuestas_mejora
 
 ## 🤝 **Contribuye y Colabora**
 
