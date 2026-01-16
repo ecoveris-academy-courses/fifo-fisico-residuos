@@ -1,4 +1,4 @@
-# 🏭 FIFO Físico para Gestión de Residuos
+# ♻️ FIFO Físico para Gestión de Residuos
 ## 📊 Del Balance Negativo a la Exactitud Operativa en 5 Pasos
 
 **Un microcurso práctico que enseña a aplicar el método FIFO Físico para resolver problemas reales en la gestión de inventarios de residuos industriales.**
